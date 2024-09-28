@@ -1,4 +1,4 @@
 main code
 developed templete
 new feature added
-release - found bug
+release - bug fixed
